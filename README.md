@@ -1,8 +1,3 @@
-![Immagine7](https://user-images.githubusercontent.com/98583912/210838221-5084e08b-131b-40f0-8ade-06a71d68bec6.gif)
-
-[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
-[![**Manuali CScorza**](https://img.shields.io/badge/CScorza-Manuali-green)](https://drive.google.com/drive/folders/14jbOwS4GBSJhXP2BJk-TFCSMIzbZLBlj?usp=share_link)
-
 **INDICE**
 
 |[**CREAZIONE DI UN'IDENTITÁ**](https://github.com/CScorza/OSINTAnonimus#creazione-di-un-identit%C3%A1)|**BIOGRAFIA**|**EMAIL**|**SMS**|**VOLTI**||
@@ -72,10 +67,10 @@ Evita qualsiasi collegamento con i tuoi account reali
 |[**Twilio**](https://www.twilio.com/try-twilio)|[**Receive SMS Online**](http://receive-sms-online.com/)|[**Receive SMS**](http://receive-sms.com/)|[**Receive Free SMS**](http://receivefreesms.com/)|[**Sellaite**](http://sellaite.com/smsreceiver/)
 | :--- | :--- | :--- | :--- | :--- |
 |[**Free Online Phone**](http://www.freeonlinephone.org/)|[**Pinger**](http://www.pinger.com/tfw/)|[**DrFone Wondershare - Receive Message Online**](https://drfone.wondershare.com/message/receive-message-online.html)|[**Messages Text Free.us**](https://messages.textfree.us/login)|[**TextFree.us**](https://textfree.us/)
-|[**My Trash Mobile**](https://www.mytrashmobile.com/numbers)|[**Eeceive SMS Online**](https://www.receivesmsonline.net/)|[**Text Now**](https://www.textnow.com/)|[**Russia - SMS C**](http://smsc.ru/)|
-|**Numeri Russi**|[**RUSSIA - SMS KA**](http://smska.us/)|[**RUSSIA - Online SIM**](http://onlinesim.ru/)|[**Russia - SMS C**](http://smsc.ru/)||
+|[**My Trash Mobile**](https://www.mytrashmobile.com/numbers)|[**Eeceive SMS Online**](https://www.receivesmsonline.net/)|[**Text Now**](https://www.textnow.com/)|[**INT - SMSBOWER**](https://smsbower.com/)|
+|**Numeri Russi**|[**RUSSIA - SMS KA**](http://smska.us/)|[**RUSSIA - Online SIM**](http://onlinesim.ru/)|
 |**Numeri USA**|[**USA - HS3X**](http://hs3x.com/)|[**USA - proovl**](http://proovl.com/)|[**USA - Sellaite**](http://sellaite.com/)|[**INT - Sonetel**](http://sonetel.com/)||
-|[**INT - Zadarma**](http://zadarma.com/)|[**SMS Online.co**](http://sms-online.co/)|[**SMS Receive.net**](http://sms-receive.net/)|[**Receive a SMS.com**](http://receive-a-sms.com/)|[**Receive Free SMS.com**](http://receivefreesms.com/)
+|[**INT - SMSBOWER**](https://smsbower.com/)|[**SMS Online.co**](http://sms-online.co/)|[**SMS Receive.net**](http://sms-receive.net/)|[**Receive a SMS.com**](http://receive-a-sms.com/)|[**Receive Free SMS.com**](http://receivefreesms.com/)
 |[**Receive SMS Now.com**](http://receive-sms-now.com/)|[**Receive SMS Online.com/**](http://receivesmsonline.com/)|[**Receive SMS Online.info**](http://receive-sms-online.info/)|[**Get Free SMS Number.com**](http://getfreesmsnumber.com/)|[**Receive SMS Verification.com**](http://receivesmsverification.com/)|
 
 
@@ -84,23 +79,9 @@ Evita qualsiasi collegamento con i tuoi account reali
 |[**simsms.org**](http://simsms.org/)|[**smsvk.net**](http://smsvk.net/)|[**sms-reg.com**](http://sms-reg.com/)|[**sms-area.org**](http://sms-area.org/)|
 |:--- | :--- | :--- | :--- |
 |[**givsms-reg.come-sms.com**](http://givsms-reg.come-sms.com/)|[**sms-activate.r**](http://sms-activate.ru/)|[**getsms.online**](http://getsms.online/)||
-|**Numeri Russi**||[**smslike.ru**](http://smslike.ru/)|[**virtualsms.ru**](http://virtualsms.ru/)||
+|**Numeri Russi**|[**virtualsms.ru**](http://virtualsms.ru/)||
 |[**Twilio**](http://twilio.com/)|[**Vumber**](http://vumber.com/)|[**Esendex**](http://esendex.co.uk/)|[**Text Magic**](http://textmagic.com/)
 |[**WP Pinger**](http://wp.pinger.com/)|[**Burst SMS.com**](http://burstsms.com.au/)|[**Country Code.org**](http://countrycode.org/)||
-
-```
-Nota Bene: 
-Molti servizi, rivelano questi numeri e in automatico non fanno proseguire con la registrazione. 
-L'Alternativa può essere l'acquisto di numeri tramite moneta virtuale.
-Di recente Telegram ha anche integrato questo servizio. 
-```
-![Immagine1](https://user-images.githubusercontent.com/98583912/206870215-b05f6668-07ce-4cd4-a0d4-0af2d3387875.gif)
-
-|[**Telegram - Anonyomus Login**](https://telegram.org/blog/ultimate-privacy-topics-2-0/it?ln=a)||
-|:--- | :--- |
-|[**Guida all'Acquisto**](https://thenerdinthehighcastle.wordpress.com/2022/11/20/telegram-and-toncoin-part-1/)|**Numeri per Telegram con Toncoin**|
-|[**SMS-Man.com**](https://sms-man.com/?ref=softstore)|**Numeri Virtuali**|
-|[**KrispCall**](https://krispcall.com/virtual-phone-number/)|**Numeri Virtuali**|
 
 **VOLTI FAKE**
 
