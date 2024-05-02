@@ -6,37 +6,36 @@
 |[**CREAZIONE DELL'AMBIENTE DI LAVORO**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|[**VPN**](https://github.com/CScorza/Data-Protection#alto)|[**VIRTUALIZZAZIONE**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**Ambiente Isolato**]()|[**ISO per L'OSINT**](https://github.com/CScorza/DistroForensics#iso)|[**E- mail Sicure**](https://github.com/CScorza/OSINTAnonymous#email-sicure)|
 |[**Fonti**](https://github.com/CScorza/OSINTAnonymous#fonti)|||||
 
+# SCHAFFUNG EINER IDENTITÄT
 
-# CREAZIONE DI UN IDENTITÁ
+**Warum bei OSINT-Untersuchungen ein gefälschtes Profil erstellen?**
+„
+Es ist wichtig, das Arbeitsumfeld zu erhalten und nicht zu verlassen oder
+Begrenzen Sie das Hinterlassen persönlicher Spuren im Internet.
+„
+**Welche Art von OSINT möchten Sie machen?**
+„
+PASSIV – Bedeutet, dass Sie nicht mit einem Ziel interagieren.
+AKTIV – Bedeutet, dass Sie auf irgendeine Weise mit einem Ziel interagieren.
+zum Beispiel, indem Sie das Ziel als Facebook-Freund hinzufügen.
 
-**PERCHE CREARE UN PROFILO FAKE NELLE INDAGINI OSINT?**
+Um sich bestmöglich zu tarnen, benötigen Sie in jedem Fall eine Reihe von Optimierungsdiensten
+Gestalten Sie Ihre Arbeitsumgebung und machen Sie Ihre Sockenpuppe so sicher wie möglich.
+Nachfolgend finden Sie eine Reihe nützlicher Tools zum Erstellen eines sozialen Profils
+macht Sie in den Augen des sozialen Netzwerks selbst und seiner Anti-Fake-Systeme so glaubwürdig wie möglich.
 ```
-É importante per preservare l'ambiente di lavoro e non lasciare o 
-limitare il lascito di tracce personali sul web.
+**QWelche Schritte sind zu unternehmen?**
 ```
-**Che tipo di OSINT Vuoi fare?**
-```
-PASSIVO - Significa che non interagisci con un bersaglio.
-ATTIVO - Significa che stai interagendo con un target in qualche modo, 
-         ad esempio aggiungendo il target come amico di Facebook.
+- Beherrschtes Telefon verwenden
+- Verwenden Sie ISO-Virtualisierungssoftware
+- Verwenden Sie VPN oder Tor-Browser
+- Erstellen Sie eine neue E-Mail
+- Anderer Profilname/Benutzername
+- Profilbild
+- Follower/Freunde hinzufügen - Ständige Profilaktivität.
 
-In ogni caso per mimetizzarti al meglio, ti serviranno una serie di servizi al fine di ottimizzare 
-il tuo ambiente di lavoro e rendere il tuo sockpuppet il più sicuro possibile.
-Qui sotto troverai una serie di strumenti utili al fine di creare un profilo social che 
-ti renda quanto più possibile credibile agli occhi del social stesso e dei suoi sistemi anti fake. 
-```
-**Quali sono i passi da fare?**
-```
-- Usa telefono masterizzato
-- Usa un Software di Virtualizzazione di Iso
-- Usa VPN o Tor Browser
-- Crea una nuova e-mail
-- Nome del profilo/Nome utente diverso 
-- Immagine del profilo
-- Aggiunhi Follower/amici - Attività del profilo costante.
-
-N.B.
-Evita qualsiasi collegamento con i tuoi account reali
+Hinweis:
+Vermeiden Sie jegliche Verbindungen zu Ihren echten Konten
 ```
 
 
